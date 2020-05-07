@@ -1,0 +1,14 @@
+{
+    "name": "Unity.XR.Skyworth",
+    "references": [
+        "Unity.XR.Management"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
